@@ -1,0 +1,11 @@
+identifier: l3p8lc57obu592s0
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: C:\Users\pouria\Music\my-blog-angular
+distFolder: dist/my-blog-angular
+outDir: C:\Users\pouria\Music\my-blog-angular\dist\static
+handle404: ''
+allowErrorCollect: true
